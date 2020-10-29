@@ -1,0 +1,21 @@
+---
+title: "Plotly examples"
+output: 
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float: true
+    
+---
+
+# Examples of plotly
+
+Added an extra line in the .yml file
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+
+library(plotly)
+```
+
